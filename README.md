@@ -6,7 +6,7 @@
 - [Links](https://fourbearscourses.github.io#links)
 
 ## What is FBC?
-Four Bear Courses (FBC) is a non-commercial Project, that provides Paid Courses for free.
+Four Bears Courses (FBC) is a Non-Commercial Project, that provides Paid Courses for free.
 
 ## **How to get Courses?**
 _You can use the 'Files' overview to see all the Free Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get it._
