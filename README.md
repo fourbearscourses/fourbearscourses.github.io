@@ -2,7 +2,7 @@
 
 Four Bear Courses (FBC) is a non-commercial Project, that provides Paid Courses for free.
 
-[Telegram Channel](https://telegram.dog/fourbearscourseschnl)
+[Telegram Channel](https://telegram.dog/fourbearcourseschnl)
 
 ## I waana request some courses, which aren't in the FBC channel right now
 
