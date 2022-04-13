@@ -1,0 +1,1 @@
+Sure, Send a message in this format "#request <course name>" (please enter the Name of course in place of "<course name>") in our Telegram Group.
