@@ -1,7 +1,8 @@
-### Contents
+### Index
 - [What is FBC](https://fourbearscourses.github.io#what-is-fbc)
 - [How to Get Courses](https://fourbearscourses.github.io#how-to-get-courses)
 - [I wanna request some courses, which aren't avalible in the FBC Channel right now](https://fourbearscourses.github.io#i-wanna-request-some-courses-which-arent-avalible-in-the-fbc-channel-right-now)
+- [I do not want to use Telegram, but still want to get courses](https://fourbearscourses.github.io#i-do-not-want-to-use-telegram-but-still-want-to-get-courses)
 - [Links](https://fourbearscourses.github.io#links)
 
 ## What is FBC?
@@ -23,5 +24,5 @@ _Sorry, there's no other way right now._
 
 [Telegram Group](https://telegram.me/fourbearcourses)
 
-
+-----------------------------------------------------------
 #### FBC is a BRANCH of [Code Tamil](https://telegram.dog/code_tamil)
