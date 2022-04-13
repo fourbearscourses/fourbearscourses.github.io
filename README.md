@@ -13,7 +13,7 @@ _[Sure!](https://tx.me/s/fourbearcourseschnl/39)_
 
 ## **I do not want to use Telegram, but still want to get courses**
 
-_Sorry, there's no way right now._
+_Sorry, there's no other way right now._
 
 -----------------------------------------------------------------
 
