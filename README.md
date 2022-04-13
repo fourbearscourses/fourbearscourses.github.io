@@ -1,13 +1,16 @@
-## **Hi**! :)
+### Contents
+- [What is FBC](https://fourbearscourses.github.io#what-is-fbc)
+- [How to Get Courses](https://fourbearscourses.github.io#how-to-get-courses)
+- [I wanna request some courses, which aren't avalible in the FBC Channel right now](https://fourbearscourses.github.io#i-wanna-request-some-courses-which-arent-avalible-in-the-fbc-channel-right-now)
+- [Links](https://fourbearscourses.github.io#links)
 
+## What is FBC?
 Four Bear Courses (FBC) is a non-commercial Project, that provides Paid Courses for free.
-
-[Telegram Channel](https://telegram.dog/fourbearcourseschnl)
 
 ## **How to get Courses?**
 _You can use the 'Files' overview to see all the Free Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get it._
 
-## **I wanna request some courses, which aren't in the FBC channel right now**
+## **I wanna request some courses, which aren't avalible in the FBC channel right now**
 
 _[Sure!](https://tx.me/s/fourbearcourseschnl/39)_
 
@@ -15,6 +18,10 @@ _[Sure!](https://tx.me/s/fourbearcourseschnl/39)_
 
 _Sorry, there's no other way right now._
 
------------------------------------------------------------------
+## Links
+[Telegram Channel](https://telegram.me/fourbearcourseschnl)
+
+[Telegram Group](https://telegram.me/fourbearcourses)
+
 
 #### FBC is a BRANCH of [Code Tamil](https://telegram.dog/code_tamil)
