@@ -13,7 +13,7 @@ _You can use the 'Files' overview to see all the Free Courses that were shared. 
 
 ## **I wanna request some courses, which aren't avalible in the FBC channel right now**
 
-_[Sure!](https://tx.me/s/fourbearcourseschnl/39)_
+_Sure, Send a message in this format "#request <course name>" (please enter the Name of course in place of "<course name>") in our Telegram Group._
 
 ## **I do not want to use Telegram, but still want to get courses**
 
