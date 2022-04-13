@@ -1,19 +1,19 @@
-## Hi! :)
+## **Hi**! :)
 
 Four Bear Courses (FBC) is a non-commercial Project, that provides Paid Courses for free.
 
 [Telegram Channel](https://telegram.dog/fourbearcourseschnl)
 
-## How to get Courses?
-You can use the 'Files' overview to see all the Free Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get it.
+## **How to get Courses?**
+_You can use the 'Files' overview to see all the Free Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get it (In THE Telegram Channel)._
 
-## I waana request some courses, which aren't in the FBC channel right now
+## **I waana request some courses, which aren't in the FBC channel right now**
 
-[Sure!](https://tx.me/s/fourbearcourseschnl/39)
+_[Sure!](https://tx.me/s/fourbearcourseschnl/39)_
 
-## I do not want to use Telegram, but still want to get courses
+## **I do not want to use Telegram, but still want to get courses**
 
-Sorry, there's no way right now.
+_Sorry, there's no way right now._
 
 -----------------------------------------------------------------
 
