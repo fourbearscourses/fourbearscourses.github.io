@@ -9,7 +9,7 @@
 Four Bears Courses (FBC) is a Non-Commercial Project, that provides Paid Courses for free.
 
 ## **How to get Courses?**
-_You can use the 'Files' overview to see all the Free Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get the Course._
+_You can use the 'Files' overview to see all the Courses that were shared. It is also possible to search for specific courses using the instant search and soon we will make a bot to easily search the courses to get It._
 
 ## **I wanna request some courses, which aren't avalible in the FBC channel right now**
 
