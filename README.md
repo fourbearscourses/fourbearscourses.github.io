@@ -13,7 +13,11 @@ _You can use the 'Files' overview to see all the Courses that were shared. It is
 
 ## **I wanna request some courses, which aren't avalible in the FBC channel right now**
 
-_[Sure](https://github.com/fourbearscourses/fourbearscourses.github.io/blob/main/request_course_formatting.txt)_
+_Send a message in this format in our Telegram Group._
+
+`#request <course name>`
+
+_(please enter the Name of course in place of “`<course name>`”_
 
 ## **I do not want to use Telegram, but still want to get courses**
 
